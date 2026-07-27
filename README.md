@@ -6,6 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+cool+things.;Vibe+Coding+%F0%9F%94%A5;Powered+by+Claude+%2B+ChatGPT+%2B+Copilot;Always+learning..." />
 
+### 📬 Contact
+
+<a href="https://t.me/Krepleq" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@Krepleq-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 </div>
 
 ---
